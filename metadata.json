@@ -1,0 +1,6 @@
+{
+  "name": "RACHA - Días Consecutivos de Estudio",
+  "description": "App Android para registrar tu racha de días consecutivos de estudio. Modo oscuro, colores neón, sin anuncios y 100% sin conexión a internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
